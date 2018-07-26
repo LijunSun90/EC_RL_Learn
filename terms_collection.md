@@ -34,4 +34,6 @@
 
 * multi-modal
 
-* 
+* inertia weight
+
+*
