@@ -26,4 +26,12 @@
 
 * competition
 
+* fitness (value)
+
+* performance 
+
+* fitness function
+
+* multi-modal
+
 * 
