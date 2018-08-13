@@ -2,6 +2,8 @@
 
 * evolutionary computation
 
+* evolutioanry algorithms (EAs)
+
 * population
 
 * individual
@@ -64,4 +66,13 @@
 
 * genome
 
-* 
+* cooperative coevolution ()
+
+(A number of different species, each representing part of a problem, cooperate in order to solve a larger problem [1].)
+
+*
+
+
+## Reference
+
+[1] Eiben, Agoston E., and James E. Smith. Introduction to evolutionary computing. Vol. 53. Berlin: springer, 2003.
