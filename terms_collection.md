@@ -4,6 +4,8 @@
 
 * evolutioanry algorithms (EAs)
 
+* cooperative algorithm
+
 * population
 
 * individual
@@ -70,7 +72,39 @@
 
 (A number of different species, each representing part of a problem, cooperate in order to solve a larger problem [1].)
 
-*
+* competitive coevolution
+
+(Individuals of the same or different species compete against with each other to gain fitness at each other's expanse [1].)
+
+* cooperate
+
+* defect
+
+* pairing strategy
+
+* subpopulation
+
+* species
+
+* interdependant
+
+* mutually beneficial relationship
+
+* coevolving symbiotic systems
+
+* solutions from different population
+
+* cooperating populations
+
+* generational GA
+
+* steady-state GA
+
+* iterated prisoner's dilemma
+
+* tit-for-tat
+
+* 
 
 
 ## Reference
