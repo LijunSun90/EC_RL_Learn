@@ -26,6 +26,8 @@
 
 * optimizer
 
+* optimization
+
 * cooperation
 
 * competition
