@@ -1,4 +1,4 @@
-# Dictionary / Terms in the field of evolutionary computation
+# Dictionary / Terms in the field of evolutionary computation (EC)
 
 * evolutionary computation
 
