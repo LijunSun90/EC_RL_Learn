@@ -170,6 +170,10 @@
 
 * take-over time
 
+* premature convergence
+
+* estimation of distribution algorithm (EDA)
+
 * 
 
 
