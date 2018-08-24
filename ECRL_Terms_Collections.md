@@ -10,6 +10,8 @@
 
 * multi-objective reinforcement learning 
 
+* evolutionary multi-objective reinforcement learning 
+
 * deep reinforcement learning 
 
 * Markov decision processes (MDPs)
