@@ -12,6 +12,8 @@
 
 * deep reinforcement learning 
 
+* Markov decision processes (MDPs)
+
 * 
 
 
