@@ -20,6 +20,8 @@
 
 * dynamic programming
 
+* adversarial environments
+
 * 
 
 
