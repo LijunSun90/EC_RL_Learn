@@ -16,6 +16,8 @@
 
 * neuroevolution
 
+* dynamic programming
+
 * 
 
 
