@@ -128,9 +128,47 @@
 
 * evolutionary strategies (ES)
 
+* Covariance Matrix Adaptation Evlotion Strategies (CMA-ES)
+
 * fitness value
 
+* fitness function
+
 * genetic programming (GP)
+
+* fit individuals
+
+* highly fitted individuals
+
+* mate
+
+* alter
+
+* replacement
+
+* selection round
+
+* evolutionary multi-objective optimisation (EMO)
+
+* evolutionary dynamic optimization
+
+* sub-optimal solutions
+
+* global optimum/optima
+
+* landscape
+
+* landscape analysis
+
+* appropriateness
+
+* performance measure(s)
+
+* deceptive functions
+
+* take over
+
+* take-over time
 
 * 
 
