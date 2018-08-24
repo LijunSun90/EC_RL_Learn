@@ -106,6 +106,32 @@
 
 * tit-for-tat
 
+* genetic algorithm (GA)
+
+* genotype
+
+* phenotype
+
+* genetic operator
+
+* recombination
+
+* mutation
+
+* epigenesis
+
+* selection
+
+* immigration
+
+* representation
+
+* evolutionary strategies (ES)
+
+* fitness value
+
+* genetic programming (GP)
+
 * 
 
 
