@@ -14,6 +14,8 @@
 
 * Markov decision processes (MDPs)
 
+* neuroevolution
+
 * 
 
 
