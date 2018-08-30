@@ -22,6 +22,12 @@
 
 * adversarial environments
 
+* evolutionary Monte Carlo tree
+
+* meta-heuristics
+
+* hyper-heuristics
+
 * 
 
 
