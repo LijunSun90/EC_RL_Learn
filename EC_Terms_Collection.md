@@ -174,6 +174,8 @@
 
 * estimation of distribution algorithm (EDA)
 
+* non-dominated sorting genetic algorithm (NSGA-II)
+
 * 
 
 
