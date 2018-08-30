@@ -8,13 +8,19 @@
 
 * evolutioanry computation versus reinforcement learning (ECRL)
 
-* multi-objective reinforcement learning 
+* multi-objective reinforcement learning (MORL)
 
-* evolutionary multi-objective reinforcement learning 
+* evolutionary multi-objective reinforcement learning (EMORL)
+
+* evolutionary dynamic optimisation (EDO)
 
 * deep reinforcement learning 
 
 * Markov decision processes (MDPs)
+
+* multi-objective or multi-criteria MDP (MOMDP)
+
+* multi-criteria decision making (MCDM)
 
 * neuroevolution
 
@@ -22,11 +28,19 @@
 
 * adversarial environments
 
+* Monte Carlo tree search (MCTS)
+
 * evolutionary Monte Carlo tree
 
 * meta-heuristics
 
 * hyper-heuristics
+
+* coevolutionary computation (CEC)
+
+* competitive CEC
+
+* dynamic and adversarial envrionments
 
 * 
 
