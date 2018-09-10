@@ -176,6 +176,12 @@
 
 * non-dominated sorting genetic algorithm (NSGA-II)
 
+* premature convergence
+
+* divide-and-conquer
+
+* decompose -> subcomponents -> subpopulations -> subsolutions -> overall solutions
+
 * 
 
 
