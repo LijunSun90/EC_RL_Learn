@@ -250,6 +250,12 @@
 
 * oscillation size of a particle over time
 
+* PSO variants
+
+* PSO extensions
+
+* update rule
+
 * 
 
 
