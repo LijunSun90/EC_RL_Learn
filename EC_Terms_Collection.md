@@ -194,7 +194,7 @@
 
 * search capability
 
-* experimental setup/results/analysis
+* experimental setup/results/analysis/studies
 
 * a separate subpopulation
 
@@ -214,6 +214,8 @@
 
 * variable interactions
 
+* search space
+
 * be trapped in a local optimum
 
 * grouping structure
@@ -230,9 +232,29 @@
 
 * subcomponent
 
+* collective intelligence
+
+* potential solutions
+
+* exploratory
+
+(with large search step sizes)
+
+* exploitative
+
+(with smaller search step sizes)
+  
+* swarm 
+
+* canonical 
+
+* oscillation size of a particle over time
+
 * 
 
 
 ## Reference
 
 [1] Eiben, Agoston E., and James E. Smith. Introduction to evolutionary computing. Vol. 53. Berlin: springer, 2003.
+
+[2] Li, Xiaodong, and Xin Yao. "Cooperatively coevolving particle swarms for large scale optimization." IEEE Transactions on Evolutionary Computation 16, no. 2 (2012): 210-224.
