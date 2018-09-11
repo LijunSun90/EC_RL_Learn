@@ -198,7 +198,37 @@
 
 * a separate subpopulation
 
-* 
+* subpopulation member
+
+* selected member
+
+* the current best member 
+
+* be assessed 
+
+* the cooperative coevolution (CC) framework
+
+* interactive variables
+
+* interacting variables
+
+* variable interactions
+
+* be trapped in a local optimum
+
+* grouping structure
+
+* static grouping method
+
+* dynamic grouping method
+
+* decison vector
+
+* decision variable
+
+* object vector
+
+* subcomponent
 
 * 
 
