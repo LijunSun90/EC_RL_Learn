@@ -182,6 +182,24 @@
 
 * decompose -> subcomponents -> subpopulations -> subsolutions -> overall solutions
 
+* personal best
+
+* neighborhood best
+
+* local best
+
+* global best
+
+* global optimization algorithm
+
+* search capability
+
+* experimental setup/results/analysis
+
+* a separate subpopulation
+
+* 
+
 * 
 
 
