@@ -256,10 +256,43 @@
 
 * update rule
 
-
 * optimality region
 
 (a small volume of the search space surrounding the global optimum)
+
+* simulated annealing algorithms
+
+* spatial topology
+
+* topology based on particle indices
+
+* naming convention
+
+* objective function
+
+* time step
+
+* update equations
+
+* context vector
+
+* finer-grained
+
+* solution vector
+
+* solution diversity
+
+* stagnation
+
+* stagnate
+
+* trap
+
+* get stuck
+
+* pseudominimizer
+
+(a point in search space that is a local minimizer in all the predefined subspaces, but not a local minimizer in the search space considered as a whole [3].)
 
 * 
 
