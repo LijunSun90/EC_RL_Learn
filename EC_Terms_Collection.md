@@ -256,6 +256,11 @@
 
 * update rule
 
+
+* optimality region
+
+(a small volume of the search space surrounding the global optimum)
+
 * 
 
 
@@ -264,3 +269,6 @@
 [1] Eiben, Agoston E., and James E. Smith. Introduction to evolutionary computing. Vol. 53. Berlin: springer, 2003.
 
 [2] Li, Xiaodong, and Xin Yao. "Cooperatively coevolving particle swarms for large scale optimization." IEEE Transactions on Evolutionary Computation 16, no. 2 (2012): 210-224.
+
+[3] Van den Bergh, Frans, and Andries Petrus Engelbrecht. "A cooperative approach to particle swarm optimization." IEEE transactions on evolutionary computation 8, no. 3 (2004): 225-239.
+
