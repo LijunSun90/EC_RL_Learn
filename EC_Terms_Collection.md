@@ -298,6 +298,10 @@
 
 * suboptimal solutions
 
+* deceptive behavior
+
+* deceptive function
+
 * 
 
 
