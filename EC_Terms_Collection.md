@@ -294,6 +294,8 @@
 
 (a point in search space that is a local minimizer in all the predefined subspaces, but not a local minimizer in the search space considered as a whole [3].)
 
+* the guaranteed convergence property
+
 * 
 
 
