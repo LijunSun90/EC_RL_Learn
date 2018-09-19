@@ -296,6 +296,8 @@
 
 * the guaranteed convergence property
 
+* suboptimal solutions
+
 * 
 
 
