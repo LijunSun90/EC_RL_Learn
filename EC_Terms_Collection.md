@@ -302,6 +302,8 @@
 
 * deceptive function
 
+* the normal PSO (in contrast to, such as, the CC based PSO)
+
 * 
 
 
