@@ -314,6 +314,10 @@
 
 * solution quality
 
+* no free lunch theory
+
+* the split swarm technology
+
 * 
 
 
