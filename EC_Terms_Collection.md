@@ -306,6 +306,10 @@
 
 * the current collection of populations
 
+* sensitivity analysis
+
+(a study of the influence fo parameter changes on performance)
+
 * 
 
 
