@@ -312,6 +312,8 @@
 
 * interdependency between the variables
 
+* solution quality
+
 * 
 
 
