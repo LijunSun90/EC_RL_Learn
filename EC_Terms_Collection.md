@@ -196,6 +196,8 @@
 
 * experimental setup/results/analysis/studies
 
+* parameter settings
+
 * a separate subpopulation
 
 * subpopulation member
