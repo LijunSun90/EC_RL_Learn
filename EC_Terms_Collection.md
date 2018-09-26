@@ -320,6 +320,24 @@
 
 * the split swarm technology
 
+* new candidate solutions
+
+* (the number of) problem dimensionality
+
+* fitter
+
+* least fit
+
+* offspring
+
+* neighbor particle
+
+* dynamic search
+
+* tournament selection
+
+* infeasible solutions
+
 * 
 
 
