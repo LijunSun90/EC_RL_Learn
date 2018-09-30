@@ -354,9 +354,63 @@
 
 (describe the selection pressure of a selection method, which is the number of generations needed under pure selection for a initial single best-fit individual to fill up the whole population.)
 
+* multimodal problems
+
 * multimodality
 
 * genetic drift
+
+* candidate solutions
+
+* diversity maintainance
+
+* explicit approaches
+
+* fitness sharing
+
+(the number of individuals within a given niche is controlled by sharing their fitness immediately prior to selection, in an attempt to allocate individuals to niches in proportion to the the niche fitness. And the use of fitness proportionate selection is implicit within the fitness-sharing method.)
+
+(allocates individuals to fitness peaks in proportion to their fitness)
+
+* crowding
+
+(distributes the population evenly amongst the fitness peaks)
+
+* crowding factor (CF)
+
+(When a new offspring is inserted into the population, a number (CF) of members of the parent population are chosen at random, and then the offspring replaces the most similar of those parents.)
+
+* deterministic crowding
+
+* epoch
+
+(a (usually fixed) number of generations)
+
+* epoch length
+
+(generations)
+
+* migration
+
+(In parallel evolution, after an epoch, a number of individuals are selected from each population to be exchanged with others from neighbouring populations.)
+
+* problem dependent
+
+* survivor selection mechanism
+
+* selection mechanism (strategy)
+
+* fitness-based 
+
+* fitness proportionate selection
+
+* copy-best
+
+* pick-from-fittest-half
+
+* island model
+
+* spatial distribution
 
 * 
 
