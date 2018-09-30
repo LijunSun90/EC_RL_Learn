@@ -412,6 +412,10 @@
 
 * spatial distribution
 
+* multimodal problems, local optimum, global optimum, unimodal
+
+(Multimodal problems are problems in which there are a number of points that are better than all their neighbouring solutions. We call each of these points a local optimum and denote the highest of these as the global optimum. A problem in which there is only one local optimum is known as unimodal.)
+
 * 
 
 
