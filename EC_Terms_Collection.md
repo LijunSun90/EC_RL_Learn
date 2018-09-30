@@ -354,6 +354,8 @@
 
 (describe the selection pressure of a selection method, which is the number of generations needed under pure selection for a initial single best-fit individual to fill up the whole population.)
 
+* multimodality
+
 * 
 
 
