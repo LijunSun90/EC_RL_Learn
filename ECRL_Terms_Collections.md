@@ -16,6 +16,10 @@
 
 * deep reinforcement learning 
 
+* multiagent reinforcement learning (MARL)
+
+* independent reinforcement learning (InRL)
+
 * Markov decision processes (MDPs)
 
 * multi-objective or multi-criteria MDP (MOMDP)
