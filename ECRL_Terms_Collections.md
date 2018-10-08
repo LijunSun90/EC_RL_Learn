@@ -14,7 +14,7 @@
 
 * evolutionary dynamic optimisation (EDO)
 
-* deep reinforcement learning 
+* deep reinforcement learning (Deep RL)
 
 * multiagent reinforcement learning (MARL)
 
