@@ -18,7 +18,11 @@
 
 * multiagent reinforcement learning (MARL)
 
+(several agents interact and learn in an environment simulatenously, either competively, cooperatively, or some mix of the two.)
+
 * independent reinforcement learning (InRL)
+
+(the simplest form of MARL, where each agentin oblivious to the ohter agents and simply treats all the interaction as part of its ("localized") environment.)
 
 * Markov decision processes (MDPs)
 
@@ -52,3 +56,5 @@
 ## References:
 
 [1] Drugan, Madalina M. "Reinforcement learning versus evolutionary computation: A survey on hybrid algorithms." Swarm and Evolutionary Computation (2018).
+
+[2] Lanctot, Marc, Vinicius Zambaldi, Audrunas Gruslys, Angeliki Lazaridou, Julien Perolat, David Silver, and Thore Graepel. "A unified game-theoretic approach to multiagent reinforcement learning." In Advances in Neural Information Processing Systems, pp. 4190-4203. 2017.
