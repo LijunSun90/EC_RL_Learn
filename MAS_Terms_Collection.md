@@ -12,7 +12,7 @@
 
 * Distributed Problem Solving (DPS)
 
-(focuses on the information management aspects of systems with several components working together towards a common goal.)
+(focuses on the information management aspects, such as task decomposition and solution synthesis, of systems with several components working together towards a common goal.)
 
 * Multiagent System (MAS)
 
