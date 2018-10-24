@@ -418,6 +418,12 @@
 
 * shared environment
 
+* numerical optimization (problem)
+
+* combinatorical optimization (problem)
+
+* decision vector
+ 
 * 
 
 
