@@ -431,6 +431,8 @@
 * runtime behavior
 
 * stochastic search algorithms
+
+* variation operator
  
 * 
 
