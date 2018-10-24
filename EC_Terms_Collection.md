@@ -425,6 +425,8 @@
 * decision vector
 
 * runtime behavior
+
+* stochastic search algorithms
  
 * 
 
