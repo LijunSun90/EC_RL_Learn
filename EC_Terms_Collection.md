@@ -218,6 +218,10 @@
 
 * search space
 
+* search piont
+
+(search point in the search space)
+
 * be trapped in a local optimum
 
 * grouping structure
