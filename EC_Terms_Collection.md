@@ -423,6 +423,8 @@
 * combinatorical optimization (problem)
 
 * decision vector
+
+* runtime behavior
  
 * 
 
