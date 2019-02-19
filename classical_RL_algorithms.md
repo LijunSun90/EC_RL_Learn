@@ -4,5 +4,6 @@
 
 > Q-learning
 
-> policy gradients
+> polucy gradient methods
 
+> 
