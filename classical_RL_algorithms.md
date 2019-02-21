@@ -12,7 +12,7 @@ Methods for estimating the values of actions and for using the estimates to make
 
 > sample-average method for estimating action values
 
-Each estimate is an average of the sample of relevant rewards.
+Each estimate action value is an average of the sample of observed rewards.
 
 
 
