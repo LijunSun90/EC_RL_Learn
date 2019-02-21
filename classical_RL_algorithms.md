@@ -14,6 +14,10 @@ Methods for estimating the values of actions and for using the estimates to make
 
 Each estimate action value is an average of the sample of observed rewards.
 
+> neasr-greedy action selection rule or \epsilon-greedy method
+
+Behave greedily most of the time, but with a small probability \epsilon, select randomly from among all the actions with equal probability, independent of the action-value estimates.
+
 
 
 ## References:
