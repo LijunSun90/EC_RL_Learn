@@ -22,7 +22,9 @@ Behave greedily most of the time, but with a small probability \epsilon, select 
 
 NewEstimate <- OldEstimate + StepSize[Target - OldEstimate]
 
-> 
+> weighted average
+
+
 
 
 
